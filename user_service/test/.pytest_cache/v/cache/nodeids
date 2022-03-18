@@ -1,0 +1,7 @@
+[
+  "test_a_user_service.py::test_add_user",
+  "test_a_user_service.py::test_remove_user",
+  "test_b_user_service.py::test_add_user",
+  "test_c_remove_user.py::test_remove",
+  "test_d_references.py::test_basic"
+]
